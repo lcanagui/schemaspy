@@ -1,0 +1,190 @@
+
+¨org.schemaspy.service.DatabaseService#basicTableMetaFromResultSetRow(Ljava/sql/ResultSet;ZLjava/lang/String;Ljava/lang/String;)Lorg/schemaspy/service/helper/BasicTableMeta;
+__unknown_file (rs""clazz
+schemaName"13*á
+1k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.javaÊ Ê(@§°
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.javaÁ Á(!
+%11"+org.schemaspy.service.helper.BasicTableMetaı
+Ú
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.javaÁ Á(Z
+%12"¢org.schemaspy.service.helper.BasicTableMeta#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;J)V*
+
+%11*
+
+cat*
+
+sch*
+
+name*	
+
+clazz*
+	
+remarks*
+
+viewDefinition*
+"""v
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.javaÁ Á([
+
+%11*º
+2k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.javaÊ+ Ê(/ƒ
+¡
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.javaÊ+ Ê(?
+%10"-java.lang.Long#parseLong(Ljava/lang/String;)J*"
+java.lang.Long*
+
+rows*
+1*ˇ
+13k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.javaﬁ ﬁ(ñ
+ì
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.javaﬁ# ﬁ(2
+%0"__concat*	
+
+clazz*	
+_name 
+«
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.javaﬁ ﬁ(3
+%1"Bjava.sql.ResultSet#getString(Ljava/lang/String;)Ljava/lang/String;*
+
+rs*
+
+%0Ü
+É
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.javaﬁ ﬁ(4
+name"__id*
+
+%1ô
+ñ
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.javaﬂ+ ﬂ(=
+%2"__concat*	
+
+clazz*
+
+_catalog§
+°
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.javaﬂ ﬂ(>
+%3"qorg.schemaspy.service.DatabaseService#getOptionalString(Ljava/sql/ResultSet;Ljava/lang/String;)Ljava/lang/String;*)"'
+%org.schemaspy.service.DatabaseService*
+
+rs*
+
+%2Ö
+Ç
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.javaﬂ ﬂ(?
+cat"__id*
+
+%3ò
+ï
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.java‡+ ‡(<
+%4"__concat*	
+
+clazz*	
+_schema§
+°
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.java‡ ‡(=
+%5"qorg.schemaspy.service.DatabaseService#getOptionalString(Ljava/sql/ResultSet;Ljava/lang/String;)Ljava/lang/String;*)"'
+%org.schemaspy.service.DatabaseService*
+
+rs*
+
+%4Ö
+Ç
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.java‡ ‡(>
+sch"__id*
+
+%5*
+10
+11*Å
+4k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.javaÂ Â(MÜ
+É
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.javaÂ Â(M
+rows"__id*
+""*
+2
+1*§
+6k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.javaÂ" Â(3¨
+©
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.javaÂ" Â(E
+%9"qorg.schemaspy.service.DatabaseService#getOptionalString(Ljava/sql/ResultSet;Ljava/lang/String;)Ljava/lang/String;*)"'
+%org.schemaspy.service.DatabaseService*
+
+rs*
+
+table_rows*
+4*ã
+7k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.java‰ ‰(\ê
+ç
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.java‰ ‰(\
+viewDefinition"__id*
+""*
+4
+6*©
+8k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.java‰3 ‰(D±
+Æ
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.java‰3 ‰([
+%8"qorg.schemaspy.service.DatabaseService#getOptionalString(Ljava/sql/ResultSet;Ljava/lang/String;)Ljava/lang/String;*)"'
+%org.schemaspy.service.DatabaseService*
+
+rs*
+view_definition*
+7*»
+10k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.java„ „(*ô
+ñ
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.java„/ „(A
+%6"__concat*	
+
+clazz*
+
+_comment§
+°
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.java„ „(B
+%7"qorg.schemaspy.service.DatabaseService#getOptionalString(Ljava/sql/ResultSet;Ljava/lang/String;)Ljava/lang/String;*)"'
+%org.schemaspy.service.DatabaseService*
+
+rs*
+
+%6â
+Ü
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.java„ „(C	
+remarks"__id*
+
+%7*
+7
+8*á
+11k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.java‚ ‚(ç
+ä
+k
+_/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/service/DatabaseService.java‚ ‚(
+sch"__id*
+
+
+schemaName*
+10

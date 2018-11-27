@@ -1,0 +1,14 @@
+
+:org.schemaspy.WiringConfiguration#clock()Ljava/time/Clock;
+__unknown_file ("1*™
+1e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java' '(»
+¸
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java' '((
+%0"4java.time.Clock#systemDefaultZone()Ljava/time/Clock;*"
+java.time.Clock"o
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java' '()
+
+%0

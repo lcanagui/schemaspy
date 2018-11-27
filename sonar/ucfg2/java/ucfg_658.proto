@@ -1,0 +1,74 @@
+
+]org.schemaspy.output.xml.dom.XmlTableFormatter#asBinary(Ljava/lang/String;)Ljava/lang/String;
+__unknown_file (str"5*∫
+1t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaü ü(æ
+ª
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaü ü(
+%7"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+buf"~
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaü ü(
+
+%7*›
+3t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaù ù(˘
+ˆ
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaù ù(*
+%5"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*
+%02X*
+""›
+⁄
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaù ù(+
+%6"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+buf*
+
+%5*
+3
+1*â	
+5t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaö ö(∑
+¥
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaö$ ö(:
+%0"__id*0*.#
+!java.nio.charset.StandardCharsets"
+UTF_8…
+∆
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaö ö(;
+%1"7java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B*
+
+str*
+
+%0ù
+ö
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaõ. õ(:
+%2"__id**
+$Array"
+lengthòï
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaõ  õ(-
+%3"java.lang.StringBuilder≥
+∞
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaõ õ(?
+%4""java.lang.StringBuilder#<init>(I)V*
+
+%3*
+""é
+ã
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaõ õ(@
+buf"__id*
+
+%3*
+3
+1

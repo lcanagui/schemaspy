@@ -1,0 +1,89 @@
+
+‘org.schemaspy.WiringConfiguration#databaseService(Ljava/time/Clock;Lorg/schemaspy/service/TableService;Lorg/schemaspy/service/ViewService;Lorg/schemaspy/service/SqlService;)Lorg/schemaspy/service/DatabaseService;
+__unknown_file (clocktableServiceviewService
+sqlService"paramAnnotations*⁄
+1e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java;# ;((óî
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java; ;("
+%0"%org.schemaspy.service.DatabaseService‚
+ﬂ
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java; ;(P
+%1"©org.schemaspy.service.DatabaseService#<init>(Ljava/time/Clock;Lorg/schemaspy/service/TableService;Lorg/schemaspy/service/ViewService;Lorg/schemaspy/service/SqlService;)V*
+
+%0*	
+
+clock*
+
+tableService*
+
+viewService*
+
+
+sqlService"o
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java; ;(Q
+
+%0*¿
+paramAnnotationsf
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java:* :(Ç∏
+µ
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java9 9(	
+%2"
+__annotate*/-
++org.springframework.context.annotation.Bean*	
+
+clockâ
+Ü
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java:1 :(6
+clock"__annotation*
+
+%2ø
+º
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java9 9(	
+%3"
+__annotate*/-
++org.springframework.context.annotation.Bean*
+
+tableServiceê
+ç
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java:E :(Q
+tableService"__annotation*
+
+%3æ
+ª
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java9 9(	
+%4"
+__annotate*/-
++org.springframework.context.annotation.Bean*
+
+viewServiceè
+å
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java:_ :(j
+viewService"__annotation*
+
+%4Ω
+∫
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java9 9(	
+%5"
+__annotate*/-
++org.springframework.context.annotation.Bean*
+
+
+sqlServiceè
+å
+f
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java:w :(Å
+
+sqlService"__annotation*
+
+%5*
+1

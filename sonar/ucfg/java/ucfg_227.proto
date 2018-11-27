@@ -1,0 +1,74 @@
+
+morg.schemaspy.logging.StackTraceOmitter#convert(Lch/qos/logback/classic/spi/ILoggingEvent;)Ljava/lang/String;
+__unknown_file (event"paramAnnotations*û
+1k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/StackTraceOmitter.java5 5(¿
+Ω
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/StackTraceOmitter.java5 5(
+%4"__id*B*@)
+'org.schemaspy.logging.StackTraceOmitter"
+omittedStackTraceπ
+∂
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/StackTraceOmitter.java5 5(#
+%5"1java.util.concurrent.atomic.AtomicBoolean#set(Z)V*
+
+%4*
+""µ
+≤
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/StackTraceOmitter.java6 6()
+%6"__id*7*5#
+!ch.qos.logback.core.CoreConstants"
+EMPTY_STRING"u
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/StackTraceOmitter.java6 6(*
+
+%6*Ò
+2k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/StackTraceOmitter.java4 4(á
+Ñ
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/StackTraceOmitter.java4 4('
+%3"|ch.qos.logback.classic.pattern.ThrowableProxyConverter#convert(Lch/qos/logback/classic/spi/ILoggingEvent;)Ljava/lang/String;*
+""*	
+
+event"u
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/StackTraceOmitter.java4 4((
+
+%3*‡
+3k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/StackTraceOmitter.java3 3(¿
+Ω
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/StackTraceOmitter.java3 3(
+%0"__id*B*@)
+'org.schemaspy.logging.StackTraceOmitter"
+SCHEMA_SPY_LOGGER¢
+ü
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/StackTraceOmitter.java3 3(.
+%1""org.slf4j.Logger#isDebugEnabled()Z*
+
+%0*
+2
+1*æ
+paramAnnotationsk
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/StackTraceOmitter.java2 2(.•
+¢
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/StackTraceOmitter.java1 1(
+%2"
+__annotate*
+java.lang.Override*	
+
+eventè
+å
+k
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/StackTraceOmitter.java2( 2(-
+event"__annotation*
+
+%2*
+3

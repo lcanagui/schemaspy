@@ -1,0 +1,48 @@
+
+aorg.schemaspy.output.diagram.vizjs.VizJSDot#fixPathsAndUrls(Ljava/lang/String;)Ljava/lang/String;
+__unknown_file (	dotSource"1*Â
+
+1o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/diagram/vizjs/VizJSDot.javaZ Z(%ô
+ñ
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/diagram/vizjs/VizJSDot.javaZ Z(f
+%0"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+	dotSource*'%
+#(<IMG SRC=\\\").*(images.*)(\\\"/>)*
+$1../../$2$3ê
+ç
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/diagram/vizjs/VizJSDot.javaZ Z(g
+
+fixedImage"__id*
+
+%0ï
+í
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/diagram/vizjs/VizJSDot.java[% [(k
+%1"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+
+fixedImage*
+(URL=\")([^tables])(.*)(\")*
+$1tables/$2$3$4ô
+ñ
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/diagram/vizjs/VizJSDot.java[ [(l
+addedTableIfMissing"__id*
+
+%1ê
+ç
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/diagram/vizjs/VizJSDot.java\ \(P
+%2"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+addedTableIfMissing*
+(URL=\")(.*)(\")*
+$1../../$2$3"y
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/diagram/vizjs/VizJSDot.java\ \(Q
+
+%2

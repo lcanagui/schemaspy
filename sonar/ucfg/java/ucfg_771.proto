@@ -1,0 +1,52 @@
+
+Dorg.schemaspy.util.Html#escape(Ljava/lang/String;)Ljava/lang/String;
+__unknown_file (input"1*°
+
+1[
+Q/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Html.java (á
+Þ
+[
+Q/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Html.java (%
+%0"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*	
+
+input*
+&*	
+&amp;Ý
+Ú
+[
+Q/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Html.java (%
+%1"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+%0*
+<*
+&lt;Ý
+Ú
+[
+Q/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Html.java (%
+%2"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+%1*
+>*
+&gt;à
+Ý
+[
+Q/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Html.java  ('
+%3"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+%2*
+\"*
+
+&quot;ß
+Ü
+[
+Q/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Html.java !(&
+%4"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+%3*
+'*
+
+&apos;"e
+[
+Q/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Html.java !('
+
+%4
